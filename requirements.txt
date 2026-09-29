@@ -1,4 +1,0 @@
-streamlit
-onnxruntime
-numpy
-pillow
